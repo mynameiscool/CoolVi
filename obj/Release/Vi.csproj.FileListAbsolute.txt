@@ -1,0 +1,11 @@
+C:\Users\Jeremy\Desktop\TheVi\Vi\bin\Release\Vi.exe.config
+C:\Users\Jeremy\Desktop\TheVi\Vi\bin\Release\Vi.exe
+C:\Users\Jeremy\Desktop\TheVi\Vi\bin\Release\Vi.pdb
+C:\Users\Jeremy\Desktop\TheVi\Vi\bin\Release\EloBuddy.dll
+C:\Users\Jeremy\Desktop\TheVi\Vi\bin\Release\EloBuddy.SDK.dll
+C:\Users\Jeremy\Desktop\TheVi\Vi\bin\Release\SharpDX.dll
+C:\Users\Jeremy\Desktop\TheVi\Vi\bin\Release\SharpDX.Direct3D9.dll
+C:\Users\Jeremy\Desktop\TheVi\Vi\bin\Release\Newtonsoft.Json.dll
+C:\Users\Jeremy\Desktop\TheVi\Vi\obj\Release\Vi.csprojResolveAssemblyReference.cache
+C:\Users\Jeremy\Desktop\TheVi\Vi\obj\Release\Vi.exe
+C:\Users\Jeremy\Desktop\TheVi\Vi\obj\Release\Vi.pdb
