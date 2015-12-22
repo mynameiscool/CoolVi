@@ -97,7 +97,7 @@ namespace Vi
         }
         private static void Combo()
         {
-            var useQ = SkillMenu["QHarass"].Cast<CheckBox>().CurrentValue;
+            var useQ = SkillMenu["QCombo"].Cast<CheckBox>().CurrentValue;
             var useR = SkillMenu["RCombo"].Cast<CheckBox>().CurrentValue;
             var useE = SkillMenu["ECombo"].Cast<CheckBox>().CurrentValue;
             if (Q.IsReady() && useQ)

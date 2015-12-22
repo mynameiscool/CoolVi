@@ -8,3 +8,11 @@ C:\Users\Jeremy\Desktop\TheVi\Vi\bin\Debug\SharpDX.Direct3D9.dll
 C:\Users\Jeremy\Desktop\TheVi\Vi\bin\Debug\Newtonsoft.Json.dll
 C:\Users\Jeremy\Desktop\TheVi\Vi\obj\Debug\Vi.exe
 C:\Users\Jeremy\Desktop\TheVi\Vi\obj\Debug\Vi.pdb
+C:\Users\Jeremy\Desktop\CoolVi\bin\Debug\Vi.exe.config
+C:\Users\Jeremy\Desktop\CoolVi\obj\Debug\Vi.exe
+C:\Users\Jeremy\Desktop\CoolVi\obj\Debug\Vi.pdb
+C:\Users\Jeremy\Desktop\CoolVi\bin\Debug\Vi.exe
+C:\Users\Jeremy\Desktop\CoolVi\bin\Debug\Vi.pdb
+C:\Users\Jeremy\Desktop\CoolVi\bin\Debug\SharpDX.Direct3D9.dll
+C:\Users\Jeremy\Desktop\CoolVi\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Jeremy\Desktop\CoolVi\obj\Debug\Vi.csprojResolveAssemblyReference.cache
